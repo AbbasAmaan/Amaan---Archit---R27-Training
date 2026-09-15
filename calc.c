@@ -9,4 +9,5 @@ int main() {
     printf("Sum = %d\n", a + b);
     printf("DIfference = %d\n", a-b);
     return 0;
+}
     
